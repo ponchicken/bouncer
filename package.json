@@ -1,0 +1,7 @@
+{
+  "name": "bouncer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hel <my@maggit.ru>",
+  "license": "MIT"
+}
